@@ -24,7 +24,7 @@
   - 알려줘전북대 메인 서버
   - 주요 기술 스텍: RubyOnRails
 
-- [LetMeKnow.jbnu--management](LetMeKnow.jbnu--management)
+- [LetMeKnow.jbnu--management](https://github.com/hmu332233/LetMeKnow.jbnu--management)
   - 알려줘전북대 관리자 페이지, api 서버
   - 주요 기술 스텍: react, nodejs
   - [![Build Status](https://travis-ci.org/hmu332233/LetMeKnow.jbnu-management.svg?branch=develop)](https://travis-ci.org/hmu332233/LetMeKnow.jbnu-management)
@@ -36,7 +36,7 @@
 - [LetMeKnow.jbnu--lambda](https://github.com/hmu332233/LetMeKnow.jbnu--lambda)
   - 알려줘전북대에서 돌아가는 lambda 코드 모음
 
-- [LetMeKnow.jbnu--bixby](LetMeKnow.jbnu--bixby) (개발 중?)
+- [LetMeKnow.jbnu--bixby](https://github.com/hmu332233/LetMeKnow.jbnu--bixby) (개발 중?)
   - 알려줘전북대 빅스비 client
   - 주요 기술 스텍
     - 빅스비(?)
@@ -67,3 +67,7 @@
     <td align="center"><a href="https://github.com/fdsfdsg"><img src="https://avatars3.githubusercontent.com/u/43921054?s=400&v=4" width="100px;" alt="Jeroen Engels"/><br /><sub><b>SangBeom Park</b></sub></a><br /></td>
   </tr>
 </table>
+
+## LICENSE
+
+[MIT](https://github.com/hmu332233/LetMeKnow.jbnu/blob/master/LICENSE)
