@@ -27,7 +27,7 @@
 - [LetMeKnow.jbnu--management](https://github.com/hmu332233/LetMeKnow.jbnu--management)
   - 알려줘전북대 관리자 페이지, api 서버
   - 주요 기술 스텍: react, nodejs
-  - [![Build Status](https://travis-ci.org/hmu332233/LetMeKnow.jbnu-management.svg?branch=develop)](https://travis-ci.org/hmu332233/LetMeKnow.jbnu-management)
+  - [![Build Status](https://travis-ci.org/hmu332233/LetMeKnow.jbnu--management.svg?branch=develop)](https://travis-ci.org/hmu332233/LetMeKnow.jbnu--management)
 
 - [LetMeKnow.jbnu--proxy](https://github.com/hmu332233/LetMeKnow.jbnu--proxy) (개발 중)
   - 알려줘전북대 proxy 서버
