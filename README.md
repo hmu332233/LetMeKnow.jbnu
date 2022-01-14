@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmu332233%2FLetMeKnow.jbnu&count_bg=%23FFB648&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 알려줘전북대
 
 전북대학교 학생들을 위한 편의 기능들을 제공하는 챗봇 프로젝트입니다.  
